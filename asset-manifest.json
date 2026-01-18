@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/LokiGodofBattle.github.io/justcarpent/static/css/main.e9d888c9.css",
-    "main.js": "/LokiGodofBattle.github.io/justcarpent/static/js/main.d56444ec.js",
-    "static/media/hero.jpg": "/LokiGodofBattle.github.io/justcarpent/static/media/hero.26c3c4805a58738d7fae.jpg",
-    "index.html": "/LokiGodofBattle.github.io/justcarpent/index.html",
-    "main.e9d888c9.css.map": "/LokiGodofBattle.github.io/justcarpent/static/css/main.e9d888c9.css.map",
-    "main.d56444ec.js.map": "/LokiGodofBattle.github.io/justcarpent/static/js/main.d56444ec.js.map"
+    "main.css": "/justcarpent/static/css/main.017da551.css",
+    "main.js": "/justcarpent/static/js/main.d56444ec.js",
+    "static/media/hero.jpg": "/justcarpent/static/media/hero.26c3c4805a58738d7fae.jpg",
+    "index.html": "/justcarpent/index.html",
+    "main.017da551.css.map": "/justcarpent/static/css/main.017da551.css.map",
+    "main.d56444ec.js.map": "/justcarpent/static/js/main.d56444ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9d888c9.css",
+    "static/css/main.017da551.css",
     "static/js/main.d56444ec.js"
   ]
 }
